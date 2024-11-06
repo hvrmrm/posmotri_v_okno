@@ -1,1 +1,1 @@
-https://github.com/hvrmrm/posmotri-v-okno
+https://github.com/hvrmrm/posmotri_v_okno
