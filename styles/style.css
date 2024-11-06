@@ -178,10 +178,6 @@ ol {
   font-weight: 400;
 }
 
-.search-form__label-text:hover {
-  text-decoration: none;
-}
-
 .search-form__label:hover {
   text-decoration: underline 1px #FFF;
 }
